@@ -29,7 +29,7 @@
 
 | Autor                          | Obra                                                       |
 |--------------------------------|------------------------------------------------------------|
-| Herbert Schildt                | C Completo e Total                                         |
+| Herbert Schildt                | C, Completo e Total                                         |
 | Aditya Y. Bhargava             | Entendendo Algoritmos                                      |
 | Luciano Ramalho                | Python Fluente                                             |
 | José Augusto N. G. Manzano     | Linguagem Assembly: Introdução ao Padrão Intel 8086        |
@@ -45,43 +45,16 @@
       <a href="https://github.com/yst4rhckr" target="_blank" style="text-decoration: none; color: inherit;">
           <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/github.svg" width="28" height="28" style="vertical-align: middle; margin-right: 12px;">
           <strong>GitHub</strong><br>
-          <span style="color: #8b8b8b; margin-left: 40px; display: block;">yst4rhckr — Low-level projects</span>
+          <span style="color: #8b8b8b; margin-left: 40px; display: block;">yst4rhckr</span>
       </a>
     </td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 10px 0;">
-      <a href="https://www.threads.net/@eriscleyton_rn" target="_blank" style="text-decoration: none; color: inherit;">
-          <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/threads.svg" width="28" height="28" style="vertical-align: middle; margin-right: 12px;">
-          <strong>Threads</strong><br>
-          <span style="color: #8b8b8b; margin-left: 40px; display: block;">@eriscleyton_rn</span>
-      </a>
-    </td>
-  </tr>
-  <tr style="border: none;">
-    <td style="border: none; padding: 10px 0;">
-      <a href="https://odysee.com/@yst4rhckr:4" target="_blank" style="text-decoration: none; color: inherit;">
-          <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/play-btn-fill.svg" width="28" height="28" style="vertical-align: middle; margin-right: 12px;">
-          <strong>Odysee</strong><br>
-          <span style="color: #8b8b8b; margin-left: 40px; display: block;">Canal de conteúdo</span>
-      </a>
-    </td>
-  </tr>
-  <tr style="border: none;">
-    <td style="border: none; padding: 10px 0;">
-      <a href="https://x.com/eriscleytonrn" target="_blank" style="text-decoration: none; color: inherit;">
-          <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/twitter-x.svg" width="28" height="28" style="vertical-align: middle; margin-right: 12px;">
-          <strong>X (Twitter)</strong><br>
-          <span style="color: #8b8b8b; margin-left: 40px; display: block;">@eriscleytonrn</span>
-      </a>
-    </td>
-  </tr>
-  <tr style="border: none;">
-    <td style="border: none; padding: 10px 0;">
-      <a href="https://instagram.com/eriscleyton_rn" target="_blank" style="text-decoration: none; color: inherit;">
-          <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/instagram.svg" width="28" height="28" style="vertical-align: middle; margin-right: 12px;">
-          <strong>Instagram</strong><br>
-          <span style="color: #8b8b8b; margin-left: 40px; display: block;">@eriscleyton_rn</span>
+      <a href="https://web.redemiau.com/u/eriscleyton-rn" target="_blank" style="text-decoration: none; color: inherit;">
+          <img src="https://web.redemiau.com/icons/icon-192.png" width="28" height="28" style="vertical-align: middle; margin-right: 12px;">
+          <strong>Miau (Rede Social)</strong><br>
+          <span style="color: #8b8b8b; margin-left: 40px; display: block;">perfil</span>
       </a>
     </td>
   </tr>
